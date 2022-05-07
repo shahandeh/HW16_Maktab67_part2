@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/create_user"
+        android:icon="@drawable/user"
+        android:id="@+id/createUserFragment"/>
+
+    <item android:title="@string/search_user"
+        android:id="@+id/searchUserFragment"
+        android:icon="@drawable/search"/>
+</menu>

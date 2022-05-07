@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="input_query">Input Query</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="national_code">National Code</string>
+    <string name="search_user">Search User</string>
+    <string name="create_user">Create User</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="from_camera">From Camera</string>
+    <string name="name">Name</string>
+    <string name="family">Family</string>
+    <string name="coding">Coding</string>
+    <string name="gaming">Gaming</string>
+    <string name="movie">Movie</string>
+    <string name="sport">Sport</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_image">user image</string>
+    <string name="take_image">Take Image</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
